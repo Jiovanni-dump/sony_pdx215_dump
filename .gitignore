@@ -1,0 +1,8 @@
+system_ext/apex/com.android.vndk.v30.apex
+system_ext/etc/product/content/demovideo.mp4
+system_ext/etc/product/content/demolandscapevideo.mp4
+product/priv-app/GmsCore/GmsCore.apk
+product/priv-app/Velvet/Velvet.apk
+product/priv-app/Messages/Messages.apk
+product/app/WebViewGoogle/WebViewGoogle.apk
+product/app/Photos/Photos.apk
